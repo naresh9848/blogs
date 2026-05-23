@@ -19,5 +19,12 @@
     "date": "2026-05-20",
     "excerpt": "Next.js is the most popular React framework today. Here's why you should use it and how to get started in under 10 minutes.",
     "tags": ["nextjs", "react", "tutorial"]
-  }
+  }.
+  {
+  "slug": "ai-portrait-prompts",
+  "title": "5 AI Portrait Prompts That Actually Work",
+  "date": "2026-05-24",
+  "excerpt": "I spent weeks testing hundreds of prompts to find what really creates stunning AI portraits. Here are my top 5 — with the exact prompts you can copy and use right now.",
+  "tags": ["ai-art", "prompts", "midjourney"]
+}
 ]
