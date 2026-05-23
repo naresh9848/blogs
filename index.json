@@ -1,26 +1,5 @@
 [
   {
-    "slug": "writing-better-markdown",
-    "title": "Writing Better Markdown for Your Blog",
-    "date": "2026-05-23",
-    "excerpt": "Markdown is the secret weapon of every great blog. Learn how to write clean, readable Markdown that converts to beautiful HTML.",
-    "tags": ["writing", "markdown"]
-  },
-  {
-    "slug": "deploying-to-vercel",
-    "title": "Deploying to Vercel for Free",
-    "date": "2026-05-22",
-    "excerpt": "Vercel's free tier is incredibly generous. Learn how to deploy your Next.js blog in 5 minutes with zero configuration.",
-    "tags": ["vercel", "deployment"]
-  },
-  {
-    "slug": "getting-started-with-nextjs",
-    "title": "Getting Started with Next.js",
-    "date": "2026-05-20",
-    "excerpt": "Next.js is the most popular React framework today. Here's why you should use it and how to get started in under 10 minutes.",
-    "tags": ["nextjs", "react", "tutorial"]
-  },
-  {
   "slug": "ai-portrait-prompts",
   "title": "5 AI Portrait Prompts That Actually Work",
   "date": "2026-05-24",
